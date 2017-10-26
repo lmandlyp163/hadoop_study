@@ -6,11 +6,12 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="hadoop_study" />
+        <module name="hdfs_study" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="hadoop_study" target="1.5" />
+      <module name="hdfs_study" target="1.5" />
     </bytecodeTargetLevel>
   </component>
 </project>

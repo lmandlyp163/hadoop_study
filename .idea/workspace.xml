@@ -2,85 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="015093ba-8d43-4b35-a7b5-c1c02cd5ccca" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__asm_asm_3_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_code_findbugs_jsr305_1_3_9.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_guava_guava_11_0_2.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_protobuf_protobuf_java_2_5_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_jamesmurty_utils_java_xmlbuilder_0_4.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_jcraft_jsch_0_1_42.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_sun_jersey_jersey_client_1_9.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_sun_jersey_jersey_core_1_9.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_sun_jersey_jersey_json_1_9.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_sun_jersey_jersey_server_1_9.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_sun_xml_bind_jaxb_impl_2_2_3_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_thoughtworks_paranamer_paranamer_2_3.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_beanutils_commons_beanutils_1_7_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_beanutils_commons_beanutils_core_1_8_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_cli_commons_cli_1_2.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_codec_commons_codec_1_4.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_collections_commons_collections_3_2_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_configuration_commons_configuration_1_6.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_daemon_commons_daemon_1_0_13.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_digester_commons_digester_1_8.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_el_commons_el_1_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_httpclient_commons_httpclient_3_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_io_commons_io_2_4.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_lang_commons_lang_2_6.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_logging_commons_logging_1_1_3.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_net_commons_net_3_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_activation_activation_1_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_servlet_jsp_jsp_api_2_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_servlet_servlet_api_2_5.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_xml_bind_jaxb_api_2_2_2.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_xml_stream_stax_api_1_0_2.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_4_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__log4j_log4j_1_2_17.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_java_dev_jets3t_jets3t_0_9_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_avro_avro_1_7_4.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_compress_1_4_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_math3_3_1_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_hadoop_hadoop_annotations_2_4_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_hadoop_hadoop_auth_2_4_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_hadoop_hadoop_client_2_4_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_hadoop_hadoop_common_2_4_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_hadoop_hadoop_hdfs_2_4_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_hadoop_hadoop_mapreduce_client_app_2_4_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_hadoop_hadoop_mapreduce_client_common_2_4_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_hadoop_hadoop_mapreduce_client_core_2_4_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_hadoop_hadoop_mapreduce_client_jobclient_2_4_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_hadoop_hadoop_mapreduce_client_shuffle_2_4_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_hadoop_hadoop_yarn_api_2_4_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_hadoop_hadoop_yarn_client_2_4_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_hadoop_hadoop_yarn_common_2_4_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_hadoop_hadoop_yarn_server_common_2_4_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_httpcomponents_httpclient_4_1_2.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_httpcomponents_httpcore_4_1_2.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_zookeeper_zookeeper_3_4_5.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_codehaus_jackson_jackson_core_asl_1_8_8.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_codehaus_jackson_jackson_jaxrs_1_8_3.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_codehaus_jackson_jackson_mapper_asl_1_8_8.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_codehaus_jackson_jackson_xc_1_8_3.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_codehaus_jettison_jettison_1_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mortbay_jetty_jetty_6_1_26.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mortbay_jetty_jetty_util_6_1_26.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_5.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_log4j12_1_7_5.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_tukaani_xz_1_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_xerial_snappy_snappy_java_1_0_4_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__tomcat_jasper_compiler_5_5_23.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__tomcat_jasper_runtime_5_5_23.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__xmlenc_xmlenc_0_52.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/hdfs_study/src/main/java/com/lm/HDFS/HDFSBaseStudy.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/hdfs_study/src/main/java/com/lm/MR/JobTest_1.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/hdfs_study/src/main/java/com/lm/MR/MapperTest_1.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/hdfs_study/src/main/java/com/lm/MR/ReducerTest_1.java" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/hdfs_study/com/lm/Test.class" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/compiler.xml" afterPath="$PROJECT_DIR$/.idea/compiler.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/hdfs_study/target/classes/com/lm/MR/JobTest_1.class" afterPath="$PROJECT_DIR$/hdfs_study/target/classes/com/lm/MR/JobTest_1.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/hdfs_study/target/hdfs.study-1.0-SNAPSHOT.jar" afterPath="$PROJECT_DIR$/hdfs_study/target/hdfs.study-1.0-SNAPSHOT.jar" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/hdfs_study/hdfs_study.iml" afterPath="$PROJECT_DIR$/hdfs_study/hdfs_study.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/hdfs_study/pom.xml" afterPath="$PROJECT_DIR$/hdfs_study/pom.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/hdfs_study/src/main/java/com/lm/MR/JobTest_1.java" afterPath="$PROJECT_DIR$/hdfs_study/src/main/java/com/lm/MR/JobTest_1.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/hdfs_study/target/maven-archiver/pom.properties" afterPath="$PROJECT_DIR$/hdfs_study/target/maven-archiver/pom.properties" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -108,19 +34,12 @@
       <file leaf-file-name="Configuration.class" pinned="false" current-in-tab="false">
         <entry file="jar://$MAVEN_REPOSITORY$/org/apache/hadoop/hadoop-common/2.4.1/hadoop-common-2.4.1.jar!/org/apache/hadoop/conf/Configuration.class">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
-              <caret line="82" column="13" lean-forward="false" selection-start-line="82" selection-start-column="13" selection-end-line="82" selection-end-column="13" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="FileSystem.class" pinned="false" current-in-tab="false">
-        <entry file="jar://$MAVEN_REPOSITORY$/org/apache/hadoop/hadoop-common/2.4.1/hadoop-common-2.4.1.jar!/org/apache/hadoop/fs/FileSystem.class">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
-              <caret line="74" column="30" lean-forward="false" selection-start-line="74" selection-start-column="30" selection-end-line="74" selection-end-column="30" />
-              <folding />
+            <state relative-caret-position="-753">
+              <caret line="196" column="38" lean-forward="true" selection-start-line="196" selection-start-column="38" selection-end-line="196" selection-end-column="38" />
+              <folding>
+                <element signature="e#8176#8177#0" expanded="true" />
+                <element signature="e#8202#8203#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -128,7 +47,7 @@
       <file leaf-file-name="MapperTest_1.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/hdfs_study/src/main/java/com/lm/MR/MapperTest_1.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="352">
+            <state relative-caret-position="273">
               <caret line="29" column="0" lean-forward="false" selection-start-line="29" selection-start-column="0" selection-end-line="29" selection-end-column="0" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -140,8 +59,8 @@
       <file leaf-file-name="ReducerTest_1.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/hdfs_study/src/main/java/com/lm/MR/ReducerTest_1.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="182">
-              <caret line="23" column="59" lean-forward="true" selection-start-line="23" selection-start-column="59" selection-end-line="23" selection-end-column="59" />
+            <state relative-caret-position="120">
+              <caret line="23" column="59" lean-forward="false" selection-start-line="23" selection-start-column="59" selection-end-line="23" selection-end-column="59" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -149,11 +68,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="JobTest_1.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="JobTest_1.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/hdfs_study/src/main/java/com/lm/MR/JobTest_1.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="272">
-              <caret line="16" column="4" lean-forward="true" selection-start-line="16" selection-start-column="4" selection-end-line="16" selection-end-column="4" />
+            <state relative-caret-position="488">
+              <caret line="51" column="25" lean-forward="false" selection-start-line="51" selection-start-column="12" selection-end-line="51" selection-end-column="29" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -164,8 +83,38 @@
       <file leaf-file-name="Job.class" pinned="false" current-in-tab="false">
         <entry file="jar://$MAVEN_REPOSITORY$/org/apache/hadoop/hadoop-mapreduce-client-core/2.4.1/hadoop-mapreduce-client-core-2.4.1.jar!/org/apache/hadoop/mapreduce/Job.class">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="141">
-              <caret line="90" column="22" lean-forward="false" selection-start-line="90" selection-start-column="22" selection-end-line="90" selection-end-column="22" />
+            <state relative-caret-position="290">
+              <caret line="694" column="43" lean-forward="true" selection-start-line="691" selection-start-column="44" selection-end-line="691" selection-end-column="59" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="JobSubmitter.class" pinned="false" current-in-tab="true">
+        <entry file="jar://$MAVEN_REPOSITORY$/org/apache/hadoop/hadoop-mapreduce-client-core/2.4.1/hadoop-mapreduce-client-core-2.4.1.jar!/org/apache/hadoop/mapreduce/JobSubmitter.class">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="511">
+              <caret line="307" column="48" lean-forward="true" selection-start-line="307" selection-start-column="48" selection-end-line="307" selection-end-column="48" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Cluster.class" pinned="false" current-in-tab="false">
+        <entry file="jar://$MAVEN_REPOSITORY$/org/apache/hadoop/hadoop-mapreduce-client-core/2.4.1/hadoop-mapreduce-client-core-2.4.1.jar!/org/apache/hadoop/mapreduce/Cluster.class">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="176">
+              <caret line="49" column="5" lean-forward="true" selection-start-line="49" selection-start-column="5" selection-end-line="49" selection-end-column="5" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="InetSocketAddress.java" pinned="false" current-in-tab="false">
+        <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_111.jdk/Contents/Home/src.zip!/java/net/InetSocketAddress.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="228">
+              <caret line="51" column="13" lean-forward="false" selection-start-line="51" selection-start-column="13" selection-end-line="51" selection-end-column="13" />
               <folding />
             </state>
           </provider>
@@ -175,7 +124,7 @@
         <entry file="jar://$MAVEN_REPOSITORY$/org/apache/hadoop/hadoop-hdfs/2.4.1/hadoop-hdfs-2.4.1.jar!/org/apache/hadoop/hdfs/server/namenode/FSPermissionChecker.class">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="155">
-              <caret line="163" column="0" lean-forward="true" selection-start-line="163" selection-start-column="0" selection-end-line="163" selection-end-column="0" />
+              <caret line="163" column="0" lean-forward="false" selection-start-line="163" selection-start-column="0" selection-end-line="163" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -230,7 +179,7 @@
   <component name="ProjectFrameBounds">
     <option name="y" value="23" />
     <option name="width" value="1440" />
-    <option name="height" value="831" />
+    <option name="height" value="821" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -346,6 +295,11 @@
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/hdfs_study/src/main/resources" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -868,7 +822,7 @@
       <workItem from="1505352255968" duration="639000" />
       <workItem from="1505438442860" duration="246000" />
       <workItem from="1505697918362" duration="9000" />
-      <workItem from="1508985759965" duration="7952000" />
+      <workItem from="1508985759965" duration="18528000" />
     </task>
     <servers />
   </component>
@@ -905,10 +859,10 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="15893000" />
+    <option name="totallyTimeSpent" value="26469000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1440" height="831" extended-state="0" />
+    <frame x="0" y="23" width="1440" height="821" extended-state="6" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Nl-Palette" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -922,7 +876,7 @@
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.36605892" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.36605892" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.43197757" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -1202,39 +1156,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/hadoop/hadoop-common/2.4.1/hadoop-common-2.4.1.jar!/org/apache/hadoop/conf/Configuration.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="82" column="13" lean-forward="false" selection-start-line="82" selection-start-column="13" selection-end-line="82" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/hdfs_study/src/main/java/com/lm/HDFS/HDFSBaseStudy.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="21">
           <caret line="30" column="16" lean-forward="false" selection-start-line="30" selection-start-column="16" selection-end-line="30" selection-end-column="16" />
           <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/hdfs_study/src/main/java/com/lm/MR/MapperTest_1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="352">
-          <caret line="29" column="0" lean-forward="false" selection-start-line="29" selection-start-column="0" selection-end-line="29" selection-end-column="0" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/hdfs_study/src/main/java/com/lm/MR/ReducerTest_1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="182">
-          <caret line="23" column="59" lean-forward="true" selection-start-line="23" selection-start-column="59" selection-end-line="23" selection-end-column="59" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1257,26 +1183,105 @@
     <entry file="jar://$MAVEN_REPOSITORY$/org/apache/hadoop/hadoop-hdfs/2.4.1/hadoop-hdfs-2.4.1.jar!/org/apache/hadoop/hdfs/server/namenode/FSPermissionChecker.class">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="155">
-          <caret line="163" column="0" lean-forward="true" selection-start-line="163" selection-start-column="0" selection-end-line="163" selection-end-column="0" />
+          <caret line="163" column="0" lean-forward="false" selection-start-line="163" selection-start-column="0" selection-end-line="163" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/hadoop/hadoop-mapreduce-client-core/2.4.1/hadoop-mapreduce-client-core-2.4.1.jar!/org/apache/hadoop/mapreduce/Job.class">
+    <entry file="file://$PROJECT_DIR$/hdfs_study/src/main/java/com/lm/MR/MapperTest_1.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="141">
-          <caret line="90" column="22" lean-forward="false" selection-start-line="90" selection-start-column="22" selection-end-line="90" selection-end-column="22" />
+        <state relative-caret-position="273">
+          <caret line="29" column="0" lean-forward="false" selection-start-line="29" selection-start-column="0" selection-end-line="29" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hdfs_study/src/main/java/com/lm/MR/ReducerTest_1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="23" column="59" lean-forward="false" selection-start-line="23" selection-start-column="59" selection-end-line="23" selection-end-column="59" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/hadoop/hadoop-common/2.4.1/hadoop-common-2.4.1.jar!/org/apache/hadoop/conf/Configuration.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-753">
+          <caret line="196" column="38" lean-forward="true" selection-start-line="196" selection-start-column="38" selection-end-line="196" selection-end-column="38" />
+          <folding>
+            <element signature="e#8176#8177#0" expanded="true" />
+            <element signature="e#8202#8203#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hdfs_study/src/main/resources/hdfs-site.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="332">
+          <caret line="24" column="0" lean-forward="true" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hdfs_study/src/main/resources/yarn-site.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="19" column="23" lean-forward="true" selection-start-line="19" selection-start-column="23" selection-end-line="19" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hdfs_study/src/main/resources/mapred-site.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/hdfs_study/src/main/java/com/lm/MR/JobTest_1.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="16" column="4" lean-forward="true" selection-start-line="16" selection-start-column="4" selection-end-line="16" selection-end-column="4" />
+        <state relative-caret-position="488">
+          <caret line="51" column="25" lean-forward="false" selection-start-line="51" selection-start-column="12" selection-end-line="51" selection-end-column="29" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_111.jdk/Contents/Home/src.zip!/java/net/InetSocketAddress.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="51" column="13" lean-forward="false" selection-start-line="51" selection-start-column="13" selection-end-line="51" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/hadoop/hadoop-mapreduce-client-core/2.4.1/hadoop-mapreduce-client-core-2.4.1.jar!/org/apache/hadoop/mapreduce/Cluster.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="49" column="5" lean-forward="true" selection-start-line="49" selection-start-column="5" selection-end-line="49" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/hadoop/hadoop-mapreduce-client-core/2.4.1/hadoop-mapreduce-client-core-2.4.1.jar!/org/apache/hadoop/mapreduce/Job.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="290">
+          <caret line="694" column="43" lean-forward="true" selection-start-line="691" selection-start-column="44" selection-end-line="691" selection-end-column="59" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/hadoop/hadoop-mapreduce-client-core/2.4.1/hadoop-mapreduce-client-core-2.4.1.jar!/org/apache/hadoop/mapreduce/JobSubmitter.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="511">
+          <caret line="307" column="48" lean-forward="true" selection-start-line="307" selection-start-column="48" selection-end-line="307" selection-end-column="48" />
+          <folding />
         </state>
       </provider>
     </entry>

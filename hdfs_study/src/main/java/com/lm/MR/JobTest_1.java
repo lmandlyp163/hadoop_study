@@ -21,17 +21,16 @@ public class JobTest_1 {
         //输入路径
         String dst = "hdfs://172.16.241.134:9000/test.txt";
         //输出路径，必须是不存在的，空文件加也不行。
-        String dstOut = "hdfs://172.16.241.134:9000/output/test2";
+        String dstOut = "hdfs://172.16.241.134:9000/output/test3";
         Configuration hadoopConfig = new Configuration();
 
-        hadoopConfig.set("fs.hdfs.impl",
-                org.apache.hadoop.hdfs.DistributedFileSystem.class.getName()
-        );
-        hadoopConfig.set("fs.file.impl",
-                org.apache.hadoop.fs.LocalFileSystem.class.getName()
-        );
-        Job job = Job.getInstance(hadoopConfig,"hadoop_job_name");
-        job.setUser("hadoop");
+//        hadoopConfig.set("fs.hdfs.impl",
+//                org.apache.hadoop.hdfs.DistributedFileSystem.class.getName()
+//        );
+//        hadoopConfig.set("fs.file.impl",
+//                org.apache.hadoop.fs.LocalFileSystem.class.getName()
+//        );
+        Job job = Job.getInstance(hadoopConfig);
 
         //如果需要打成jar运行，需要下面这句
         job.setJarByClass(JobTest_1.class);

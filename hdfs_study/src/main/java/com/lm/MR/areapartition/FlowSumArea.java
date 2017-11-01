@@ -103,7 +103,7 @@ public class FlowSumArea {
 //		FileInputFormat.setInputPaths(job, new Path(args[0]));
 //		FileOutputFormat.setOutputPath(job, new Path(args[1]));
 		FileInputFormat.setInputPaths(job, new Path("hdfs://172.16.241.136:9000/input/test.txt"));
-		FileOutputFormat.setOutputPath(job, new Path("hdfs://172.16.241.136:9000/output/test1.txt"));
+		FileOutputFormat.setOutputPath(job, new Path("hdfs://172.16.241.136:9000/output/test6.txt"));
 
 
 		System.exit(job.waitForCompletion(true)?0:1);

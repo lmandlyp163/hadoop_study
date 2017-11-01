@@ -94,5 +94,6 @@
     <orderEntry type="library" name="Maven: aopalliance:aopalliance:1.0" level="project" />
     <orderEntry type="library" name="Maven: io.netty:netty:3.6.2.Final" level="project" />
     <orderEntry type="library" name="Maven: junit:junit:4.1" level="project" />
+    <orderEntry type="library" name="hadoop-2.4.1" level="project" />
   </component>
 </module>

@@ -1,0 +1,36 @@
+
+---------------------------------mapper
+
+//context.wirte("hello->a.txt", "1")
+//context.wirte("hello->a.txt", "1")
+//context.wirte("hello->a.txt", "1")
+
+<"hello->a.txt", {1,1,1}>
+---------------------------------reducer
+/context.write("hello", "a.txt->3")
+//context.write("hello", "b.txt->2")
+//context.write("hello", "c.txt->2")
+
+
+
+-----------------------------------------------mapper
+
+//context.write("hello", "a.txt->3")
+//context.write("hello", "b.txt->2")
+//context.write("hello", "c.txt->2")
+
+<"hello", {"a.txt->3", "b.txt->2", "c.txt->2"}>
+
+-------------------------------- reducer
+
+context.write("hello", "a.txt->3 b.txt->2 c.txt->2")
+
+
+hello a.txt->3 b.txt->2 c.txt->2
+jerry a.txt->1 b.txt->3 c.txt->1
+tom a.txt->2 b.txt->1 c.txt->1
+
+
+hello   hdfs://itcast:9000/ii/b.txt->2  hdfs://itcast:9000/ii/a.txt->3
+jerry   hdfs://itcast:9000/ii/a.txt->1  hdfs://itcast:9000/ii/b.txt->3
+tom     hdfs://itcast:9000/ii/b.txt->1  hdfs://itcast:9000/ii/a.txt->2

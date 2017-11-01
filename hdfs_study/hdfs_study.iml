@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <module org.jetbrains.idea.maven.project.MavenProjectsManager.isMavenModule="true" type="JAVA_MODULE" version="4">
-  <component name="NewModuleRootManager" LANGUAGE_LEVEL="JDK_1_5">
+  <component name="NewModuleRootManager" LANGUAGE_LEVEL="JDK_1_6">
     <output url="file://$MODULE_DIR$/target/classes" />
     <output-test url="file://$MODULE_DIR$/target/test-classes" />
     <content url="file://$MODULE_DIR$">
@@ -77,15 +77,22 @@
     <orderEntry type="library" name="Maven: commons-daemon:commons-daemon:1.0.13" level="project" />
     <orderEntry type="library" name="Maven: org.apache.hadoop:hadoop-client:2.4.1" level="project" />
     <orderEntry type="library" name="Maven: org.apache.hadoop:hadoop-mapreduce-client-app:2.4.1" level="project" />
+    <orderEntry type="library" name="Maven: org.apache.hadoop:hadoop-yarn-api:2.4.1" level="project" />
+    <orderEntry type="library" name="Maven: org.apache.hadoop:hadoop-mapreduce-client-core:2.4.1" level="project" />
+    <orderEntry type="library" name="Maven: org.apache.hadoop:hadoop-yarn-common:2.4.1" level="project" />
+    <orderEntry type="library" name="Maven: org.apache.hadoop:hadoop-mapreduce-client-jobclient:2.4.1" level="project" />
     <orderEntry type="library" name="Maven: org.apache.hadoop:hadoop-mapreduce-client-common:2.4.1" level="project" />
     <orderEntry type="library" name="Maven: org.apache.hadoop:hadoop-yarn-client:2.4.1" level="project" />
     <orderEntry type="library" name="Maven: com.sun.jersey:jersey-client:1.9" level="project" />
     <orderEntry type="library" name="Maven: org.apache.hadoop:hadoop-yarn-server-common:2.4.1" level="project" />
     <orderEntry type="library" name="Maven: org.apache.hadoop:hadoop-mapreduce-client-shuffle:2.4.1" level="project" />
-    <orderEntry type="library" name="Maven: org.apache.hadoop:hadoop-yarn-api:2.4.1" level="project" />
-    <orderEntry type="library" name="Maven: org.apache.hadoop:hadoop-mapreduce-client-core:2.4.1" level="project" />
-    <orderEntry type="library" name="Maven: org.apache.hadoop:hadoop-yarn-common:2.4.1" level="project" />
-    <orderEntry type="library" name="Maven: org.apache.hadoop:hadoop-mapreduce-client-jobclient:2.4.1" level="project" />
+    <orderEntry type="library" name="Maven: org.apache.hadoop:hadoop-yarn-server-nodemanager:2.4.1" level="project" />
+    <orderEntry type="library" name="Maven: com.sun.jersey.contribs:jersey-guice:1.9" level="project" />
+    <orderEntry type="library" name="Maven: com.google.inject.extensions:guice-servlet:3.0" level="project" />
+    <orderEntry type="library" name="Maven: com.google.inject:guice:3.0" level="project" />
+    <orderEntry type="library" name="Maven: javax.inject:javax.inject:1" level="project" />
+    <orderEntry type="library" name="Maven: aopalliance:aopalliance:1.0" level="project" />
+    <orderEntry type="library" name="Maven: io.netty:netty:3.6.2.Final" level="project" />
     <orderEntry type="library" name="Maven: junit:junit:4.1" level="project" />
   </component>
 </module>

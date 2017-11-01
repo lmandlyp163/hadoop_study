@@ -39,7 +39,7 @@ public class HDFSBaseStudy {
         // fs = FileSystem.get(conf);
 
         // 如果这样去获取，那conf里面就可以不要配"fs.defaultFS"参数，而且，这个客户端的身份标识已经是hadoop用户
-        fs = FileSystem.get(new URI("hdfs://172.16.241.134:9000"), conf, "hadoop");
+        fs = FileSystem.get(new URI("hdfs://172.16.241.136:9000"), conf, "hadoop");
     }
 
     /**
@@ -50,7 +50,7 @@ public class HDFSBaseStudy {
         // 要上传的文件所在的本地路径
         Path src = new Path("/Users/lm/Downloads/test.txt");
         // 要上传到hdfs的目标路径
-        Path dst = new Path("/test.txt");
+        Path dst = new Path("/input/test.txt");
         fs.copyFromLocalFile(src, dst);
 
         fs.close();

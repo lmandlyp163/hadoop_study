@@ -1,0 +1,1 @@
+1.该case是测试shuffle中map 阶段分组 和 分组跟ReduceTasks 关系
